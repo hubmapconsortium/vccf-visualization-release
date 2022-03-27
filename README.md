@@ -1,4 +1,4 @@
 # vccf_visualization.io
-vccf_visualization demo
+vccf_visualization demo release
 
-https://juyingnan.github.io/vccf_visualization.io/
+https://hubmapconsortium.github.io/vccf-visualization-release/
